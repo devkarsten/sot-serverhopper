@@ -1,1 +1,29 @@
-.python linguist-detectable=true 
+# Specify Python source files. 
+*.py linguist-language=python
+*.pyi linguist-language=python
+
+# Highlight Cython source files as C language, since it's hopefully better
+# than nothing. This also affects repo statistics.
+*.pyx linguist-language=C
+*.pxd linguist-language=C
+
+# Specify python binary files.
+*.db binary
+...
+
+# Jupyter notebook
+*.ipynb text
+
+# Highlight C and C++ source files.
+*.c linguist-language=c
+*.cc linguist-language=cpp
+*.cxx linguist-language=cpp
+...
+
+# Compiled Object files
+*.slo binary
+...
+
+# Compiled Dynamic libraries
+*.so binary
+...
