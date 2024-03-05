@@ -9,8 +9,10 @@
 
 ## Setup
 1. Download sot-serverhopper from GitHub Releases.
-2. Download and run [the Npcap installer](https://npcap.com/dist/npcap-1.72.exe). Select WinPCap compatibility mode. 
-3. More info below!
+2. Download and run [the Npcap installer](https://npcap.com/dist/npcap-1.72.exe). Select WinPCap compatibility mode.
+3. Install VSCode and Python (latest)
+4. Run `pip install pywall` in your VSCode terminal.
+5. More info below!
 
 ## Usage
 
