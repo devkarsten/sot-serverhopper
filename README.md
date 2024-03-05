@@ -17,7 +17,7 @@
 ## Usage
 
 1. Replace `'program="Path_To_SoTGame.exe"'` to your device's path where the .exe is installed. *(line 7)*
-2.Start the program as Administrator, and start Sea Of Thieves.
+2. Start the program as Administrator, and start Sea Of Thieves.
 
 ![ ](/screenshot-tm.jpg?raw=true "Optional Title")
 
