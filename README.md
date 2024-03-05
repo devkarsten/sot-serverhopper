@@ -1,5 +1,7 @@
 
-# sot-serverhopper
+## sot-serverhopper
+# Sea of Thieves - Hopper (Join friends, world-events &amp; more soon)
+
 > [!NOTE]
 > Still working on this, star for future updates!.
 
@@ -9,7 +11,6 @@
 3. More info below!
 
 ## Usage
-Start the program as Administrator, and start Sea Of Thieves.
-more soon
 
-Sea of Thieves - Server Hopper (Join friends, world-events &amp; more soon)
+1. Replace `'program="Path_To_SoTGame.exe"'` to your device's path where the .exe is installed. *(line 7)*
+2.Start the program as Administrator, and start Sea Of Thieves.
